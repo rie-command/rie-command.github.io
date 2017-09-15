@@ -4,9 +4,11 @@
   <link rel="stylesheet" href="style.css">
  </head>
  <body>
- <img src="ivan_c.jpg" alt="Тершуков Иван">
-  <p>Тершуков Иван, 28 лет.
-Backend и DB разработчик.
-Опыт разработки: 6 лет. </p>
+  <div class="user-block">
+    <img class="photo-user" src="ivan_c.jpg" alt="Тершуков Иван">
+    <p class="desc-user">Тершуков Иван, 28 лет.
+       Backend и DB разработчик.
+       Опыт разработки: 6 лет. </p>
+  </div>
  </body>
 </html>
