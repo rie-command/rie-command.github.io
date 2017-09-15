@@ -13,9 +13,9 @@
     </div>
     <div class="user-block">
       <img class="photo-user" src="roma_c.jpg" alt="Тершуков Иван">
-      <p class="desc-user">Тершуков Иван, 28 лет.
-         Backend и DB разработчик.
-         Опыт разработки: 6 лет. </p>
+      <p class="desc-user">Алексеев Роман, 25 лет.
+        Frontend разработчик.
+        Опыт разработки: 3 года.  </p>
      </div>
    </div>
  </body>
