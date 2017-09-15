@@ -13,3 +13,9 @@
   word-wrap: break-word;
   text-align: center;
 }
+
+.users-row{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: stretch;
+}
