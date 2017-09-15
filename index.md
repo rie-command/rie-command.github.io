@@ -1,4 +1,4 @@
 - first
 - second
 
-./ivan_c.jpg
+ivan_c.jpg
