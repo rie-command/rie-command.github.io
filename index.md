@@ -1,7 +1,7 @@
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Пример веб-страницы</title>
+  <link rel="stylesheet" href="style.css">
  </head>
  <body>
  <img src="ivan_c.jpg" alt="Тершуков Иван">
